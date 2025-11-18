@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36015.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMM_API", "SMM_API\SMM_API.csproj", "{9BF7194C-41D1-496E-BB30-29CF6A84AF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF7194C-41D1-496E-BB30-29CF6A84AF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF7194C-41D1-496E-BB30-29CF6A84AF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF7194C-41D1-496E-BB30-29CF6A84AF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF7194C-41D1-496E-BB30-29CF6A84AF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690A1482-B458-4C90-96F6-AC6BBA6D5248}
+	EndGlobalSection
+EndGlobal
